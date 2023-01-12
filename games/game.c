@@ -24,6 +24,7 @@
 
 extern const GAMEDRIVER *GAME_TS2;
 extern const GAMEDRIVER *GAME_TS3;
+extern const GAMEDRIVER* GAME_TS3_EUROPE;
 extern const GAMEDRIVER *GAME_NF;
 extern const GAMEDRIVER *GAME_MOHF;
 extern const GAMEDRIVER *GAME_MOHEA;
@@ -36,6 +37,7 @@ static const GAMEDRIVER **GAMELIST[] =
 {
 	&GAME_TS2,
 	&GAME_TS3,
+	&GAME_TS3_EUROPE,
 	&GAME_NF,
 	&GAME_MOHF,
 	&GAME_MOHEA,
