@@ -1,17 +1,22 @@
 # Mouse Injector for Dolphin 5.0 (11990)
 
-* [dolphin-5.0-11990-mouse-injector.7z](https://github.com/CrashOveride95/MouseInjectorDolphin/releases/download/v0.31/dolphin-5.0-11990-mouse-injector.7z)
+Get the latest release from [here](https://github.com/NervyDestroyer/MouseInjectorDolphin/releases).
 
-A external app that injects cursor input into game memory, bundled with Dolphin emulator.
+A external app that injects cursor input into game memory, bundled with Dolphin emulator. 
 
-## Please Note
-#### This injector is COMPLETELY AND ABSOLUTELY UNSUPPORTED, WITHOUT PREJUDICE. 
-#### The original author does NOT support this project anymore, and any questions directed to me will be IGNORED
+## Is this Actively Maintained?
+No. I just added support for the Europe version of TimeSplitters: Future Perfect. The original author no longer supports this and I have no immediately plans to either.
 
 # How to Use
-Follow the quick start guide in the included readme.txt file
+Download the zip archive of the standalone from [releases](https://github.com/NervyDestroyer/MouseInjectorDolphin/releases) (not the source code) and unzip it anywhere you'd like. This standalone is packaged with Dolphin 5.0 (11990).
 
-# Supported Titles (NTSC Only)
+After unzipping run the included Dolphin.exe and open a ROM of any supported title. Then start MouseInjectorDolphin.exe and follow the on-screen instructions. You can then press 4 to start injecting (and there will be various other options you tweak).
+
+There is a readme included with the standalone that may provide more details.
+
+If this doesn't work, feel free to DM or create an issue. If it's a simple fix, I'll look at it. If it looks complicated, please see my note about this not being actively maintained.
+
+# Supported Titles
 | Game Title | Input Profile | Mouse Support | Issues |
 | --- | :---: | :---: | ----------- |
 | TimeSplitters 2 | :heavy_check_mark: | Fair | <sup>Camera/sentry modes not supported</sub> |
@@ -25,6 +30,7 @@ Follow the quick start guide in the included readme.txt file
 | Call of Duty 2: Big Red One | :heavy_multiplication_x: | Good | <sup>None</sub> |
 | Die Hard: Vendetta | :heavy_multiplication_x: | Fair | <sup>Sentry mode not supported</sub> |
 
-# ManyMouse
-
+# Credits
 ManyMouse is Copyright (c) 2005-2012 Ryan C. Gordon and others. https://icculus.org/manymouse/
+
+YouTube.com/Graslu00 - Button replacement texture pack (thank you!)
