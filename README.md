@@ -15,7 +15,8 @@ Follow the quick start guide in the included readme.txt file
 | Game Title | Input Profile | Mouse Support | Issues |
 | --- | :---: | :---: | ----------- |
 | TimeSplitters 2 | :heavy_check_mark: | Fair | <sup>Camera/sentry modes not supported</sub> |
-| TimeSplitters: Future Perfect | :heavy_check_mark: | Poor | <sup>All non-first person modes are not supported</sub> |
+| TimeSplitters: Future Perfect (USA) | :heavy_check_mark: | Poor | <sup>All non-first person modes are not supported</sub> |
+| TimeSplitters: Future Perfect (Europe) | :heavy_check_mark: | Poor | <sup>Same as USA</sub> |
 | 007: NightFire | :heavy_check_mark: | Poor | <sup>Vehicle mode is semi-functional - last level is broken</sub> |
 | Serious Sam: Next Encounter | :heavy_check_mark: | Fair | <sup>Vehicle/submarine interfaces are not supported</sub> |
 | Medal of Honor: Frontline | :heavy_multiplication_x: | Fair | <sup>Minecart level is broken</sub> |
